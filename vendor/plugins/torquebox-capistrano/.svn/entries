@@ -1,0 +1,86 @@
+8
+
+dir
+777
+https://svn.catalpasolutions.com/svn/projects/photo/vendor/plugins/torquebox-capistrano
+https://svn.catalpasolutions.com/svn/projects
+
+
+
+2009-08-05T04:10:28.570527Z
+772
+john
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4a4ef637-622c-0410-a581-c4b1f4bd5fe0
+
+Rakefile
+file
+
+
+
+
+2009-07-29T06:16:32.000000Z
+ef0099a92bfc0cd020f3e4bea5bf04ea
+2009-08-05T04:10:28.570527Z
+772
+john
+has-props
+
+.gitignore
+file
+
+
+
+
+2009-07-29T06:16:32.000000Z
+2dc2dc1025b6176c251e38c750250606
+2009-08-05T04:10:28.570527Z
+772
+john
+has-props
+
+init.rb
+file
+
+
+
+
+2009-07-29T06:16:32.000000Z
+ea230d23a3290c72ec2673c88022bcac
+2009-08-05T04:10:28.570527Z
+772
+john
+has-props
+
+lib
+dir
+
+src
+dir
+
+pom.xml
+file
+
+
+
+
+2009-07-29T06:16:32.000000Z
+f8ae3565cf8917c1c0768e30c17f64e5
+2009-08-05T04:10:28.570527Z
+772
+john
+has-props
+
