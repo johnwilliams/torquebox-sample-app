@@ -33,3 +33,5 @@ set :repository, "git://github.com/johnwilliams/torquebox-sample-app.git"
 set :scm, :git
 set :branch, "master"
 set :deploy_via, :remote_cache
+
+require 'vendor/plugins/torquebox-capistrano/lib/recipes/torquebox'
