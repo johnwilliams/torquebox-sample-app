@@ -1,5 +1,5 @@
 development:
-  adapter: postgresql
+  adapter: mysql
   database: torquebox_development
   username: torquebox
   password: torquebox
@@ -7,7 +7,7 @@ development:
   encoding: UTF8
  
 production:
-  adapter: postgresql
+  adapter: mysql
   database: torquebox_production
   username: torquebox
   password: torquebox
