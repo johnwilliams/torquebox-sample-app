@@ -1,4 +1,4 @@
-set :application, "test-torquebox"
+set :application, "test-torquebox2"
 set :deploy_to, "/opt/torquebox/site/"
 
 #############################################################
@@ -13,11 +13,11 @@ set :use_sudo, false
 #############################################################
 
 set :user, "jboss"
-set :domain, "www.test-torquebox.com"
+set :domain, "www.test-torquebox2.com"
 
-role :app, "www.test-torquebox.com"
-role :web, "www.test-torquebox.com"
-role :db,  "www.test-torquebox.com", :primary => true
+role :app, "www.test-torquebox2.com"
+role :web, "www.test-torquebox2.com"
+role :db,  "www.test-torquebox2.com", :primary => true
 
 set :jboss_daemon_manager,          :daemontools
 set :jboss_service_directory,       "/service/torquebox"
